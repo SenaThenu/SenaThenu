@@ -6,6 +6,10 @@
       <!-- Special Thanks: https://git.io/typing-svg -->
 </p>
 
+<div align="center">
+  <img height=250px src="https://github.com/SenaThenu/SenaThenu/blob/main/Octocat.png"></img>
+</div>
+
 ---
 
 <!-- Live Streak -->
