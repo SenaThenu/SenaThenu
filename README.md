@@ -33,16 +33,22 @@
 </p>
     <!-- Special Thanks: https://github.com/tandpfun/skill-icons -->
 
+<!-- Additonal Packages -->
+<div align="center">
+  <a href="https://colab.research.google.com/"><img height=30px src="https://img.shields.io/badge/Google_Colab-242938?logo=googlecolab"></a>
+</div>
+
 #### AI Dev Tools
 <p align="center">
     <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark">
 </p>
 
-<!-- Python Packages -->
+<!-- Additonal Packages -->
 <div align="center">
   <a href="https://scikit-learn.org/"><img height=30px src="https://img.shields.io/badge/sk--learn-242938?logo=scikitlearn&logoColor=f5f5f5"></a>
   <a href="https://numpy.org/"><img height=30px src="https://img.shields.io/badge/NumPy-242938?logo=numpy&logoColor=f5f5f5"></a>
   <a href="https://pandas.pydata.org/"><img height=30px src="https://img.shields.io/badge/Pandas-242938?logo=pandas&logoColor=f5f5f5"></a>
+  <a href="https://jupyter.org/"><img height=30px src="https://img.shields.io/badge/JupyterNBs-242938?logo=jupyter&logoColor=f5f5f5"></a>
 </div>
 
 #### Web Frameworks
