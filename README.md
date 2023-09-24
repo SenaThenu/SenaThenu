@@ -1,12 +1,12 @@
 <h2 align="center">😊 Yahoo, I'm Senash! 😊</h2>
 
----
-
 <!-- Typing Svg -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&color=1666c0&center=true&width=435&lines=A+Python+Developer;Currently+Studying+Machine+Learning" alt="Typing SVG">
       <!-- Special Thanks: https://git.io/typing-svg -->
 </p>
+
+---
 
 <!-- Live Streak -->
 <p align="center">
