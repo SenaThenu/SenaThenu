@@ -10,8 +10,6 @@
   <img height=250px src="https://github.com/SenaThenu/SenaThenu/blob/main/Octocat.png"></img>
 </div>
 
----
-
 <!-- Live Streak -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SenaThenu&theme=tokyonight&hide_border=true&border_radius=25&mode=weekly&exclude_days=Sun%2CSat&card_width=500&background=45%2C094A9F%2C49447E" alt="Real-time Streak">
