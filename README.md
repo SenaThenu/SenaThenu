@@ -18,7 +18,7 @@
 
 ### Fluent Langs 🍃
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,js,bash,html,css,solidity&theme=dark">
+    <img src="https://skillicons.dev/icons?i=py,js,bash,html,css,solidity,latex&theme=dark">
 </p>
     <!-- Special Thanks: https://github.com/tandpfun/skill-icons -->
     
@@ -35,9 +35,10 @@
 </p>
     <!-- Special Thanks: https://github.com/tandpfun/skill-icons -->
 
-<!-- Additonal Packages -->
+<!-- Additonal -->
 <div align="center">
   <a href="https://colab.research.google.com/"><img height=30px src="https://img.shields.io/badge/Google_Colab-242938?logo=googlecolab"></a>
+  <a href="https://notion.so/"><img height=30px src="https://img.shields.io/badge/Notion-242938?logo=notion"></a>
 </div>
 
 #### AI Dev Tools
@@ -81,6 +82,7 @@
 #### Overall! 🚀
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SenaThenu&theme=prussian">
 
+![Profile Views](https://komarev.com/ghpvc/?username=SenaThenu&label=Profile+Views&color=38a0ff)
 
 <!---
 SenaThenu/SenaThenu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
