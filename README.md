@@ -59,6 +59,12 @@
     <img src="https://skillicons.dev/icons?i=flask,bootstrap,tailwind&theme=dark">
 </p>
 
+<!-- Holopin Badges -->
+### My Virtual Badges Inventory 📛
+<a href="https://holopin.io/@senathenu">
+  <img src="https://holopin.me/senathenu" alt="An image of SenaThenu's Holopin Badges!" align="center">
+</a>
+
 <!-- Top Repos -->
 ### My Coolest Repos 😎
 <a href="https://github.com/SenaThenu/kindle-clippings-to-notion">
