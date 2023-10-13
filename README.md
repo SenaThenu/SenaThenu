@@ -21,11 +21,6 @@
     <img src="https://skillicons.dev/icons?i=py,js,bash,html,css,solidity,latex&theme=dark">
 </p>
     <!-- Special Thanks: https://github.com/tandpfun/skill-icons -->
-    
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SenaThenu&theme=holi&layout=donut-vertical&hide_border=true&border_radius=20&bg_color=90,12529a,0c3666" alt="Top Languages">
-</p>
-    <!-- Special Thanks: https://github.com/anuraghazra/github-readme-stats#top-languages-card -->
 
 ### Fluent Tools <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer and Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> and Libraries <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25" />
 
