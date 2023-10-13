@@ -2,8 +2,8 @@
 
 <!-- Typing Svg -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&color=58a6ff&center=true&width=435&lines=A+Python+Developer;Currently+Studying+Machine+Learning" alt="Typing SVG">
-      <!-- Special Thanks: https://git.io/typing-svg -->
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&color=58a6ff&center=true&width=435&lines=Student+by+Day!;Coding+Wizard+by+Night!" alt="Typing SVG">
+  <!-- Special Thanks: https://git.io/typing-svg -->
 </p>
 
 <div align="center">
