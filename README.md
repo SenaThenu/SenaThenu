@@ -18,7 +18,7 @@
 
 ### Fluent Langs <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" />
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,js,bash,html,css,solidity,latex&theme=dark">
+    <img src="https://skillicons.dev/icons?i=py,js,bash,solidity&theme=dark">
 </p>
     <!-- Special Thanks: https://github.com/tandpfun/skill-icons -->
 
@@ -26,14 +26,13 @@
 
 #### General <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands.png" alt="Heart Hands" width="20" height="20" />
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,git,ai,linux,md,postgres&theme=dark">
+  <img src="https://skillicons.dev/icons?i=git,selenium,linux,md,godot&theme=dark">
 </p>
     <!-- Special Thanks: https://github.com/tandpfun/skill-icons -->
 
 <!-- Additonal -->
 <div align="center">
   <a href="https://colab.research.google.com/"><img height=30px src="https://img.shields.io/badge/Google_Colab-242938?logo=googlecolab"></a>
-  <a href="https://notion.so/"><img height=30px src="https://img.shields.io/badge/Notion-242938?logo=notion"></a>
 </div>
 
 #### AI Dev Tools <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="20" height="20" />
@@ -49,10 +48,25 @@
   <a href="https://jupyter.org/"><img height=30px src="https://img.shields.io/badge/JupyterNBs-242938?logo=jupyter&logoColor=f5f5f5"></a>
 </div>
 
-#### Web Frameworks <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel and places/Globe with Meridians.png" alt="Globe" width="20" height="20" />
+#### Web Stuff <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel and places/Globe with Meridians.png" alt="Globe" width="20" height="20" />
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=flask,bootstrap,tailwind&theme=dark">
+    <img src="https://skillicons.dev/icons?i=html,css,flask,bootstrap,vite,express,nodejs&theme=dark">
 </p>
+
+#### Database Stuff <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Cabinet.png" alt="File Cabinet" width="20" height="20" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark">
+</p>
+
+#### Fancy Software <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="20" height="20" />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ai&theme=dark">
+</p>
+
+<div align="center">
+  <a href="https://notion.so/"><img height=30px src="https://img.shields.io/badge/Notion-242938?logo=notion"></a>
+</div>
 
 <!-- Holopin Badges -->
 ### My Virtual Badges Inventory <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Name Badge.png" alt="Name Badge" width="25" height="25" />
