@@ -37,7 +37,7 @@
 
 #### AI Dev Tools <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="20" height="20" />
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark">
+    <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark">
 </p>
 
 <!-- Additonal Packages -->
