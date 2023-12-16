@@ -84,6 +84,19 @@
 </a>
     <!-- Special Thanks: https://github.com/anuraghazra/github-readme-stats#github-extra-pins -->
 
+<!-- My Blog -->
+### My Blogs <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Halo.png" alt="Smiling Face with Halo" width="25" height="25" />
+
+#### Tech Related <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Winking%20Face%20with%20Tongue.png" alt="Winking Face with Tongue" width="25" height="25" />
+<a href="https://senathenu.hashnode.dev/"> 
+  <img alt="Static Badge" height=35px src="https://img.shields.io/badge/Hashnode-2862fe?logo=hashnode">
+</a>
+
+#### Blend of Everything <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Partying%20Face.png" alt="Partying Face" width="25" height="25" />
+<a href="https://medium.com/@senathenu">
+  <img alt="Static Badge" height=35px src="https://img.shields.io/badge/Medium-000?logo=medium">
+</a>
+
 ### GitHub Activity <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart Increasing.png" alt="Chart" width="25" height="25" />
 
 #### Past Few Days... <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="25" height="25" />
