@@ -106,9 +106,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SenaThenu&label=Profile+Views&color=38a0ff)
 
-#### Support Me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Heart-Eyes.png" alt="Smiling Face with Heart-Eyes" width="20" height="20" />
-<a href="https://www.buymeacoffee.com/senathenu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
 <!---
 SenaThenu/SenaThenu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
