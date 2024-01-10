@@ -1,11 +1,5 @@
 <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning Face.png" alt="Grinning Face" width="25" height="25" /> Yahoo, I'm Senash! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning Face.png" alt="Grinning Face" width="25" height="25" /></h2>
 
-<!-- Typing Svg -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&color=58a6ff&center=true&width=435&lines=Student+by+Day!;Coding+Wizard+by+Night!" alt="Typing SVG">
-  <!-- Special Thanks: https://git.io/typing-svg -->
-</p>
-
 <div align="center">
   <img height=250px src="https://github.com/SenaThenu/SenaThenu/blob/main/Octocat.png"></img>
 </div>
@@ -18,7 +12,7 @@
 
 ### Fluent Langs <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" />
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,js,bash,solidity&theme=dark">
+    <img src="https://skillicons.dev/icons?i=py,js&theme=dark">
 </p>
     <!-- Special Thanks: https://github.com/tandpfun/skill-icons -->
 
