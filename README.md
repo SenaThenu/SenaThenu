@@ -44,7 +44,7 @@
 
 #### Web Stuff <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel and places/Globe with Meridians.png" alt="Globe" width="20" height="20" />
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,flask,bootstrap,vite,express,nodejs&theme=dark">
+    <img src="https://skillicons.dev/icons?i=html,css,flask,bootstrap,vite,express,nodejs,sass&theme=dark">
 </p>
 
 #### Database Stuff <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Cabinet.png" alt="File Cabinet" width="20" height="20" />
