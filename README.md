@@ -73,6 +73,9 @@
 <a href="https://github.com/SenaThenu/StudySphere">
   <img width=320 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SenaThenu&repo=StudySphere&theme=github_dark&hide_border=true&border_radius=20&bg_color=0c3666">
 </a>
+<a href="https://github.com/SenaThenu/senathenu-shop">
+  <img width=320 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SenaThenu&repo=senathenu-shop&theme=github_dark&hide_border=true&border_radius=20&bg_color=0c3666">
+</a>
 <a href="https://github.com/SenaThenu/kindle-clippings-to-notion">
   <img width=320 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SenaThenu&repo=kindle-clippings-to-notion&theme=github_dark&hide_border=true&border_radius=20&bg_color=0c3666">
 </a>
