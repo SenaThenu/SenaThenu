@@ -82,6 +82,9 @@
 <a href="https://github.com/SenaThenu/link-orchard">
   <img width=320 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SenaThenu&repo=link-orchard&theme=github_dark&hide_border=true&border_radius=20&bg_color=0c3666">
 </a>
+<a href="https://github.com/SenaThenu/digit-recognizer">
+  <img width=320 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SenaThenu&repo=digit-recognizer&theme=github_dark&hide_border=true&border_radius=20&bg_color=0c3666">
+</a>
     <!-- Special Thanks: https://github.com/anuraghazra/github-readme-stats#github-extra-pins -->
 
 <!-- My Blog -->
