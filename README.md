@@ -6,7 +6,7 @@
 
 <!-- Live Streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SenaThenu&theme=tokyonight&hide_border=true&border_radius=25&mode=weekly&exclude_days=Sun%2CSat&card_width=500&background=45%2C094A9F%2C49447E" alt="Real-time Streak">
+  <img src="https://streak-stats.demolab.com?user=SenaThenu&theme=react&hide_border=true&border_radius=25&background=150%2C12529A%2C0071BC" alt="GitHub Streak" />
       <!-- Special Thanks: https://git.io/streak-stats -->
 </p>
 
