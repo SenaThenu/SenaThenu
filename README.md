@@ -17,22 +17,22 @@
 
 <summary><strong>Table of Contents 📜</strong></summary>
 
-    - [Fluent Langs 🤓](#fluent-langs-)
-    - [Fluent Tools 🛠️ and Libraries 📚](#fluent-tools--and-libraries-)
-      - [General 😇](#general-)
-      - [AI Dev 🤖](#ai-dev-)
-      - [Web Dev 🌐](#web-dev-)
-      - [UI Dev 🖥️](#ui-dev-)
-      - [Database Dev 💽](#database-dev-)
-      - [Game Dev 🎯](#game-dev-)
-      - [Fancy Software 👻](#fancy-software-)
-    - [My Virtual Badges Inventory 📛](#my-virtual-badges-inventory-)
-    - [My Projects 🛠️](#my-projects-)
-    - [Stats and Activity 📊](#stats-and-activity-)
-    - [My Blogs 🤗](#my-blogs-)
-      - [Tech Related 😉](#tech-related-)
-      - [Blend of Everything 🥳](#blend-of-everything-)
-    - [Profile View Count 🔢](#profile-view-count-)
+- [Fluent Langs 🤓](#fluent-langs-)
+- [Fluent Tools 🛠️ and Libraries 📚](#fluent-tools-️-and-libraries-)
+  - [General 😇](#general-)
+  - [AI Dev 🤖](#ai-dev-)
+  - [Web Dev 🌐](#web-dev-)
+  - [UI Dev 🖥️](#ui-dev-️)
+  - [Database Dev 💽](#database-dev-)
+  - [Game Dev 🎯](#game-dev-)
+  - [Fancy Software 👻](#fancy-software-)
+- [My Virtual Badges Inventory 📛](#my-virtual-badges-inventory-)
+- [My Projects 🛠️](#my-projects-️)
+- [Stats and Activity 📊](#stats-and-activity-)
+- [My Blogs 🤗](#my-blogs-)
+  - [Tech Related 😉](#tech-related-)
+  - [Blend of Everything 🥳](#blend-of-everything-)
+- [Profile View Count 🔢](#profile-view-count-)
 - [Acknowledgments 💝](#acknowledgments-)
 
 </details>
@@ -159,7 +159,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SenaThenu&label=Profile+Views&color=0c3666)
 
-## Acknowledgments 💝
+### Acknowledgments 💝
 
 <div align="center">
   <a href='https://readme-forge.github.io/'>
