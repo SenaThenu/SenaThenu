@@ -113,21 +113,23 @@
 
 ### My Projects 🛠️
 
-<a href="https://github.com/SenaThenu/readme-forge">
-  <img width=320 align="center" src='https://github-readme-stats.vercel.app/api/pin/?username=SenaThenu&repo=readme-forge&show_icons=true&theme=holi&hide_border=true&border_radius=20&bg_color=0c3666'>
-</a>
-
-<a href="https://github.com/SenaThenu/link-orchard">
-  <img width=320 align="center" src='https://github-readme-stats.vercel.app/api/pin/?username=SenaThenu&repo=link-orchard&show_icons=true&theme=holi&hide_border=true&border_radius=20&bg_color=0c3666'>
-</a>
-
-<a href="https://github.com/SenaThenu/StudySphere">
-  <img width=320 align="center" src='https://github-readme-stats.vercel.app/api/pin/?username=SenaThenu&repo=StudySphere&show_icons=true&theme=holi&hide_border=true&border_radius=20&bg_color=0c3666'>
-</a>
-
-<a href="https://github.com/SenaThenu/kindle-clippings-to-notion">
-  <img width=320 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SenaThenu&repo=kindle-clippings-to-notion&theme=github_dark&hide_border=true&border_radius=20&bg_color=0c3666">
-</a>
+<div align="center">
+  <a href="https://github.com/SenaThenu/readme-forge">
+    <img width=320 align="center" src='https://github-readme-stats.vercel.app/api/pin/?username=SenaThenu&repo=readme-forge&show_icons=true&theme=holi&hide_border=true&border_radius=20&bg_color=0c3666'>
+  </a>
+  
+  <a href="https://github.com/SenaThenu/link-orchard">
+    <img width=320 align="center" src='https://github-readme-stats.vercel.app/api/pin/?username=SenaThenu&repo=link-orchard&show_icons=true&theme=holi&hide_border=true&border_radius=20&bg_color=0c3666'>
+  </a>
+  
+  <a href="https://github.com/SenaThenu/StudySphere">
+    <img width=320 align="center" src='https://github-readme-stats.vercel.app/api/pin/?username=SenaThenu&repo=StudySphere&show_icons=true&theme=holi&hide_border=true&border_radius=20&bg_color=0c3666'>
+  </a>
+  
+  <a href="https://github.com/SenaThenu/kindle-clippings-to-notion">
+    <img width=320 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SenaThenu&repo=kindle-clippings-to-notion&theme=github_dark&hide_border=true&border_radius=20&bg_color=0c3666">
+  </a>
+</div>
 
 ### Stats and Activity 📊
 
